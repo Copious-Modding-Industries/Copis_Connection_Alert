@@ -1,0 +1,6 @@
+<Mod
+	name="[v1.0] Copi's Connection Alert"
+	description="Get a warning when your game is disconnected from twitch!"
+	request_no_api_restrictions="0" 
+> 
+</Mod>
